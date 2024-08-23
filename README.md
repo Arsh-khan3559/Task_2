@@ -7,10 +7,10 @@
 *Mentor*:Muzammil Ahmed<br/>
 
 # Overview of the project
-## Project : Simple Calculator Using PYTHON<br/>
+## Project : A Student grade tracker Using PYTHON<br/>
 ### Objective
 
-Building a simple calculator in Java involves creating a program that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+Building a Student grade tracker in python involves creating a program that can perform basic arithmetic operations like avreage calculations and grade assingment.
 Here’s a step-by-step guide to achieving this:
 Student Grade Tracker
 A Python application for tracking and managing student grades. This simple command-line tool allows users to add students, record their grades, and view grades along with the average for each student.
